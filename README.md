@@ -41,7 +41,9 @@ Contains png image files of the various plots created within the jupyter noteboo
 
 ### The *Crypto_Clustering.ipynb* Jupyter Notebook:
 
-It contains the ```Python``` code used for the analysis. All the code was throroughly commented, so it's easier to understand.
+It contains the ```Python``` code used for the analysis. All the code has been commented, so it's easier to understand.
+
+### A text file with a couple of web links to references I used for help in writing my code.
 
 ## Data Reference
 
