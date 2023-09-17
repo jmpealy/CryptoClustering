@@ -4,7 +4,7 @@ This repository contains a mini-project in which a K-means model was used to clu
 
 ## Author
 
-Jason Pealy: @Jason-Pealy [https://github.com/jmpealy]
+Jason Pealy: [https://github.com/jmpealy]
 
 ## Overview of the Analysis
 
