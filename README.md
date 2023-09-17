@@ -15,7 +15,7 @@ The data were prepared for the analysis, and the following method was run twice:
 
 It was run twice because two different datasets were used: first, the original dataset, and second, the same dataset, but optimised with a principal compenent analysis (PCA).
 
-## Q&As
+## Questions answered
 
 As you will see in the Crypto_Clustering jupyter notebook file in the repository, the following 5 questions were answered as the analysis was conducted:
 
